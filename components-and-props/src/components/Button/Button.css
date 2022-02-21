@@ -1,0 +1,27 @@
+
+.button {
+  border: 1px solid;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 300px;
+  text-align: center;
+  padding: 10px 0;
+  margin: 10px 0;
+}
+
+.button.dark {
+  background-color: black;
+  color: white
+}
+
+.button.blue {
+  background-color: #2DC5FA;
+  color: white
+}
+
+.button.clear {
+  background-color: transparent;
+  color: black
+}

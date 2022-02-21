@@ -1,0 +1,19 @@
+.studentCard {
+    width: 30%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    font-size: .8em;
+    margin: 5px;
+}
+
+.studentCard img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.studentCard footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
